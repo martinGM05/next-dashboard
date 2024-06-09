@@ -1,0 +1,14 @@
+{
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+
+  "prettier.semi": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120
+}
